@@ -1,0 +1,10 @@
+Adds a single Keybind to:
+
+-Toggle on/off your Building ability.
+-When it is off, you cannot place or break blocks.
+
+Now you won't accidentally break down trees or random blocks when using Axes/Pickaxes as weapons.
+
+
+-v0.1-
+-Initial build.
